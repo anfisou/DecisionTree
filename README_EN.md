@@ -34,7 +34,7 @@ The trees for each of the datasets are available in the ```trees``` folder.
 
     java DecisionTree restaurant
 
-**test.csv file:**
+**```test.csv``` file:**
 
     Yes,No,Yes,Yes,Full,$,No,No,Burger,10-30
     Yes,No,Yes,No,None,$,No,No,French,>60
