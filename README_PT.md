@@ -1,4 +1,4 @@
-Este projeto foi desenvolvido no âmbito da Unidade Curricular 'Inteligência Artificial', durante o ano letivo 2022/2023, na Faculdade de Ciências da Universidade do Porto, pelos alunos [André Sousa](https://github.com/anfisou)), [Isabel Brito](https://github.com/Nia3324) and [Paulo Silva](https://github.com/Panda-Hacks).
+Este projeto foi desenvolvido no âmbito da Unidade Curricular 'Inteligência Artificial', durante o ano letivo 2022/2023, na Faculdade de Ciências da Universidade do Porto, pelos alunos [André Sousa](https://github.com/anfisou), [Isabel Brito](https://github.com/Nia3324) and [Paulo Silva](https://github.com/Panda-Hacks).
 
 O projeto tem como objetivo a implementação do algoritmo ID3 para a criação de Decision Trees, assim como a utilização do modelo criado a partir do dataset Connect4 na fase de rollout do algoritmo MCTS no jogo Quatro em linha.
 
