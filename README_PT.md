@@ -1,20 +1,14 @@
-# Inteligência Artificial - 2022/2023
-
-## Projeto 3 - Árvores de Decisão
-
-### Vista Geral
-
-Este projeto foi desenvolvido no âmbito da Unidade Curricular [Inteligência Artificial](https://sigarra.up.pt/fcup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=508303), durante o ano letivo 2022/2023, na Faculdade de Ciências da Universidade do Porto, pelos alunos André Sousa, Isabel Brito e Paulo Silva.
+Este projeto foi desenvolvido no âmbito da Unidade Curricular 'Inteligência Artificial', durante o ano letivo 2022/2023, na Faculdade de Ciências da Universidade do Porto, pelos alunos André Sousa, Isabel Brito e Paulo Silva.
 
 O projeto tem como objetivo a implementação do algoritmo ID3 para a criação de Decision Trees, assim como a utilização do modelo criado a partir do dataset Connect4 na fase de rollout do algoritmo MCTS no jogo Quatro em linha.
 
-O programa foi compilado tanto em *Ubuntu 20.04 LTS* com *javac 11.0.17* como *macOS Monterey version 12.2.1* com *javac 18.0.2.1*.
+
 
 ### Instruções de Compilação e Execução
 
 Para poder executar cada problema é primeiro necessário compilar todos os ficheiros java. Para tal, utilize a seguinte instrução:
 
-`javac *.java`
+```javac *.java```
 
 Após a compilação de todos os ficheiros, é possível, finalmente, executá-los. Foram utilizados os seguintes datasets:
 - Iris dataset
@@ -23,14 +17,16 @@ Após a compilação de todos os ficheiros, é possível, finalmente, executá-l
 - Connect 4 dataset
 
 Para a utilização de cada um, utilizar o seguinte formato de entrada `java DecisionTree <dataset>`, onde `<dataset>` deve ser substituido pelo nome do dataset desejado:
-- `java DecisionTree iris`
-- `java DecisionTree restaurant`
-- `java DecisionTree weather`
-- `java DecisionTree connect4`
+- ```java DecisionTree iris```
+- ```java DecisionTree restaurant```
+- ```java DecisionTree weather```
+- ```java DecisionTree connect4```
 
 Nos 3 primeiros casos, imprime a árvore de decisão correspondente ao dataset escolhido o programa, bem como prever os casos fornecidos num ficheiro **test.csv**. Caso não seja pretendido fazer previsão de novos input, o ficheiro **test.csv** deve ficar vazio. (ver Exemplo 1)
 
 Quanto ao último caso, dataset Connect4, o algoritmo irá gerar a árvore de decisão, embora não a imprima dado o seu tamanho. Para além disto, um jogo de connect 4 será iniciado onde é possível ver o algoritmo em ação contra o jogador. (ver Exemplo 2)
+
+As árvores para cada ums dos datasets estão disponíveis na pasta ```trees```.
 
 #### Exemplo 1
 
