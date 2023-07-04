@@ -1,0 +1,35 @@
+
+<petallength>
+   1-2: Iris-setosa (50)         
+   4-5: 
+      <petalwidth>
+         0.5-1: Iris-versicolor (1)         
+         1-1.5: 
+            <sepalwidth>
+               3-3.5: Iris-versicolor (5)         
+               2.5-3: Iris-versicolor (20)         
+               2-2.5: 
+                  <sepallength>
+                     5-6: Iris-virginica (1)         
+                     6-7: Iris-versicolor (3)         
+         1.5-2: 
+            <sepalwidth>
+               3-3.5: Iris-versicolor (3)         
+               2.5-3: 
+                  <sepallength>
+                     5-6: Iris-virginica (2)         
+                     6-7: Iris-versicolor (1)         Iris-virginica (3)         
+               2-2.5: Iris-virginica (3)         
+   3-4: Iris-versicolor (15)         
+   5-6: 
+      <sepallength>
+         5-6: 
+            <petalwidth>
+               1.5-2: 
+                  <sepalwidth>
+                     2.5-3: Iris-versicolor (1)         Iris-virginica (3)         
+               >2: Iris-virginica (1)         
+         6-7: Iris-virginica (25)         
+         >7: Iris-virginica (3)         
+   2-3: Iris-versicolor (1)         
+   >6: Iris-virginica (9)         
