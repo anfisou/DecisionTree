@@ -127,7 +127,7 @@ As árvores para cada ums dos datasets estão disponíveis na pasta ```trees```.
     Yes,No,Yes,No,None,$,No,No,French,>60
     No,Yes,Yes,Yes,Some,$$$,Yes,Yes,Italian,0-10
 
-**Output final:**
+**Output:**
 
     <Pat>
       Some: Yes (4)         
