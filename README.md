@@ -1,7 +1,7 @@
 # English Version
 
 
-This project was developed for the subject 'Artificial Intelligence' by the students [André Sousa](https://github.com/anfisou), [Isabel Brito](https://github.com/Nia3324) and [Paulo Silva](https://github.com/WrekingPanda).
+This project was developed for the subject 'Artificial Intelligence' by the students [André Sousa](https://github.com/anfisou), [Antónia Brito](https://github.com/Nia3324) and [Paulo Silva](https://github.com/WrekingPanda).
 
 The goal of this project is the implementation of the ID3 algorithm to create Decision Trees, as well as using the model created by the dataset Connect4 in the rollot phase of the Monte Carlo Tree Search algorithm in a Connect 4 game.
 
@@ -85,7 +85,7 @@ The trees for each of the datasets are available in the ```trees``` folder.
 
 # Versão Portuguesa
 
-Este projeto foi desenvolvido no âmbito da Unidade Curricular 'Inteligência Artificial', durante o ano letivo 2022/2023, na Faculdade de Ciências da Universidade do Porto, pelos alunos [André Sousa](https://github.com/anfisou), [Isabel Brito](https://github.com/Nia3324) and [Paulo Silva](https://github.com/Panda-Hacks).
+Este projeto foi desenvolvido no âmbito da Unidade Curricular 'Inteligência Artificial', durante o ano letivo 2022/2023, na Faculdade de Ciências da Universidade do Porto, pelos alunos [André Sousa](https://github.com/anfisou), [Antónia Brito](https://github.com/Nia3324) and [Paulo Silva](https://github.com/Panda-Hacks).
 
 O projeto tem como objetivo a implementação do algoritmo ID3 para a criação de Decision Trees, assim como a utilização do modelo criado a partir do dataset Connect4 na fase de rollout do algoritmo MCTS no jogo Quatro em linha.
 
