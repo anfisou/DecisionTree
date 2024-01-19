@@ -1,7 +1,7 @@
 # English Version
 
 
-This project was developed for the subject 'Artificial Intelligence' by the students [André Sousa](https://github.com/anfisou), [Isabel Brito](https://github.com/Nia3324) and [Paulo Silva](https://github.com/Panda-Hacks).
+This project was developed for the subject 'Artificial Intelligence' by the students [André Sousa](https://github.com/anfisou), [Isabel Brito](https://github.com/Nia3324) and [Paulo Silva](https://github.com/WrekingPanda).
 
 The goal of this project is the implementation of the ID3 algorithm to create Decision Trees, as well as using the model created by the dataset Connect4 in the rollot phase of the Monte Carlo Tree Search algorithm in a Connect 4 game.
 
